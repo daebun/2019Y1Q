@@ -65,7 +65,7 @@
 - 예시 주제 : (2018년 2분기 세션)한국어 감성 사전 기반의 감정 평가기법
 
 > 발표 희망자 문의 : https://open.kakao.com/o/sQ019XL
-
+<br>
 > 2018년 2분기 정기 세션 후기 : https://blog.naver.com/ywchung12/221295485128
 
 
